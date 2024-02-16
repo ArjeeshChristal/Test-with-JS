@@ -1,2 +1,2 @@
 # Test-with-JS
-Learning new concepts
+A code repo for testing JS
